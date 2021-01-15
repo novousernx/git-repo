@@ -1,1 +1,1 @@
-### Personal  repo with compiled software Arch Linux
+### Personal  repo with compiled software for Arch Linux
